@@ -5,3 +5,5 @@ dist/
 *.log
 firebase-debug.log
 firebase.json
+.modified
+.idx/
